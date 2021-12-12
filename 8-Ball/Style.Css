@@ -1,0 +1,40 @@
+* {
+  background-image: url(./Image-Folder/slide03.jpeg);
+}
+
+.reset {
+  color: white;
+}
+#content {
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px dotted #657d9c;
+  text-align: center;
+  font-family: arial;
+  font-weight: 100;
+  color: white;
+  font-weight: bold;
+}
+
+#answer {
+  /* padding: 23px; */
+  color: hsl(30, 40%, 98%);
+  letter-spacing: 2px;
+  font: size 30px;
+  font-weight: bold;
+}
+
+#question {
+  margin: 20px;
+  padding: 10px;
+  width: 400px;
+  font-size: 22px;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+}
+
+#info {
+  font-size: 22px;
+}
